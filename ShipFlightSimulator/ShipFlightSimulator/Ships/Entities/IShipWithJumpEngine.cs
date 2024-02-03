@@ -1,6 +1,6 @@
-﻿using Itmo.ObjectOrientedProgramming.Lab1.Ships.Models.Engines;
+﻿using ShipFlightSimulator.Ships.Models.Engines;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Ships.Entities;
+namespace ShipFlightSimulator.Ships.Entities;
 
 public interface IShipWithJumpEngine
 {

@@ -1,6 +1,6 @@
-﻿using Itmo.ObjectOrientedProgramming.Lab1.Route.Result;
+﻿using ShipFlightSimulator.Route.Result;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Ships.Models.Engines;
+namespace ShipFlightSimulator.Ships.Models.Engines;
 
 public interface IPulseEngine
 {

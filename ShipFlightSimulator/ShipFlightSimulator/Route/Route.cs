@@ -1,10 +1,9 @@
-﻿using System.Collections.Generic;
-using Itmo.ObjectOrientedProgramming.Lab1.Environments.Entities;
-using Itmo.ObjectOrientedProgramming.Lab1.Route.Models;
-using Itmo.ObjectOrientedProgramming.Lab1.Route.Result;
-using Itmo.ObjectOrientedProgramming.Lab1.Ships.Entities;
+﻿using ShipFlightSimulator.Environments.Entities;
+using ShipFlightSimulator.Route.Models;
+using ShipFlightSimulator.Route.Result;
+using ShipFlightSimulator.Ships.Entities;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Route;
+namespace ShipFlightSimulator.Route;
 
 public class Route
 {

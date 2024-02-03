@@ -1,4 +1,4 @@
-﻿namespace Itmo.ObjectOrientedProgramming.Lab1.Ships.Entities;
+﻿namespace ShipFlightSimulator.Ships.Entities;
 
 public interface IShipWithAntiNeutrinoEmitter : IShip
 {

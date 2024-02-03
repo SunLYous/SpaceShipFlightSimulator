@@ -1,6 +1,6 @@
-﻿using Itmo.ObjectOrientedProgramming.Lab1.Exceptions;
+﻿using ShipFlightSimulator.Exceptions;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Environments.Models;
+namespace ShipFlightSimulator.Environments.Models;
 
 public class Distance
 {

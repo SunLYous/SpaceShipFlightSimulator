@@ -1,9 +1,7 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using Itmo.ObjectOrientedProgramming.Lab1.Route.Result;
-using Itmo.ObjectOrientedProgramming.Lab1.Ships.Entities;
+﻿using ShipFlightSimulator.Route.Result;
+using ShipFlightSimulator.Ships.Entities;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Route.Services;
+namespace ShipFlightSimulator.Route.Services;
 
 public class ChooseShips
 {

@@ -1,4 +1,6 @@
-﻿namespace Itmo.ObjectOrientedProgramming.Lab1.Environments.Models.Obstacles;
+﻿using Itmo.ObjectOrientedProgramming.Lab1.Environments.Models.Obstacles;
+
+namespace ShipFlightSimulator.Environments.Models.Obstacles;
 
 public interface INebulaeIncreasedDensitySpaceObstacle : IObstacle
 {

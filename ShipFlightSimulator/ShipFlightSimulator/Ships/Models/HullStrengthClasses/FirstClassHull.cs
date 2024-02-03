@@ -1,6 +1,6 @@
-﻿using Itmo.ObjectOrientedProgramming.Lab1.Environments.Models;
+﻿using ShipFlightSimulator.Environments.Models;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Ships.Models.HullStrengthClasses;
+namespace ShipFlightSimulator.Ships.Models.HullStrengthClasses;
 
 public class FirstClassHull : IHull
 {

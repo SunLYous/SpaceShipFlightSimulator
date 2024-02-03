@@ -1,4 +1,5 @@
-﻿using Itmo.ObjectOrientedProgramming.Lab1.Ships.Entities;
+﻿using ShipFlightSimulator.Environments.Models;
+using ShipFlightSimulator.Ships.Entities;
 
 namespace Itmo.ObjectOrientedProgramming.Lab1.Environments.Models.Obstacles;
 

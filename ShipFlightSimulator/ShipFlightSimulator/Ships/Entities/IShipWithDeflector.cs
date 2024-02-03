@@ -1,6 +1,6 @@
-﻿using Itmo.ObjectOrientedProgramming.Lab1.Ships.Models.Deflectors;
+﻿using ShipFlightSimulator.Ships.Models.Deflectors;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Ships.Entities;
+namespace ShipFlightSimulator.Ships.Entities;
 
 public interface IShipWithDeflector
 {

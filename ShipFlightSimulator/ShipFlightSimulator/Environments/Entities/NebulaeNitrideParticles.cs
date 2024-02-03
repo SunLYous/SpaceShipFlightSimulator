@@ -1,11 +1,12 @@
-﻿using System.Collections.Generic;
-using Itmo.ObjectOrientedProgramming.Lab1.Environments.Models;
+﻿using Itmo.ObjectOrientedProgramming.Lab1.Environments.Models;
 using Itmo.ObjectOrientedProgramming.Lab1.Environments.Models.Obstacles;
-using Itmo.ObjectOrientedProgramming.Lab1.Route.Result;
-using Itmo.ObjectOrientedProgramming.Lab1.Ships.Entities;
-using Itmo.ObjectOrientedProgramming.Lab1.Ships.Models.Engines;
+using ShipFlightSimulator.Environments.Models;
+using ShipFlightSimulator.Environments.Models.Obstacles;
+using ShipFlightSimulator.Route.Result;
+using ShipFlightSimulator.Ships.Entities;
+using ShipFlightSimulator.Ships.Models.Engines;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Environments.Entities;
+namespace ShipFlightSimulator.Environments.Entities;
 
 public class NebulaeNitrideParticles : IEnvironment
 {

@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using Itmo.ObjectOrientedProgramming.Lab1.Route.Models;
-using Itmo.ObjectOrientedProgramming.Lab1.Ships.Entities;
+﻿using ShipFlightSimulator.Route.Models;
+using ShipFlightSimulator.Ships.Entities;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Route.Result;
+namespace ShipFlightSimulator.Route.Result;
 
 public abstract record FlyResult
 {

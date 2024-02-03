@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Itmo.ObjectOrientedProgramming.Lab1.Ships.Models;
+﻿namespace ShipFlightSimulator.Ships.Models;
 
 public class HitPoints
 {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Itmo.ObjectOrientedProgramming.Lab1.Exceptions;
+﻿namespace ShipFlightSimulator.Exceptions;
 public class InvalidValueException : Exception
 {
     public InvalidValueException()

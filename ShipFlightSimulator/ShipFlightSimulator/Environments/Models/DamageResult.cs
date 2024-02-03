@@ -1,4 +1,4 @@
-﻿namespace Itmo.ObjectOrientedProgramming.Lab1.Environments.Models;
+﻿namespace ShipFlightSimulator.Environments.Models;
 
 public abstract record DamageResult
 {

@@ -1,8 +1,8 @@
-﻿using Itmo.ObjectOrientedProgramming.Lab1.Environments.Models;
-using Itmo.ObjectOrientedProgramming.Lab1.Ships.Models.Engines;
-using Itmo.ObjectOrientedProgramming.Lab1.Ships.Models.HullStrengthClasses;
+﻿using ShipFlightSimulator.Environments.Models;
+using ShipFlightSimulator.Ships.Models.Engines;
+using ShipFlightSimulator.Ships.Models.HullStrengthClasses;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Ships.Entities;
+namespace ShipFlightSimulator.Ships.Entities;
 
 public interface IShip
 {

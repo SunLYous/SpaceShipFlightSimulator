@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using Itmo.ObjectOrientedProgramming.Lab1.Route.Models;
-using Itmo.ObjectOrientedProgramming.Lab1.Route.Result;
+﻿using ShipFlightSimulator.Route.Models;
+using ShipFlightSimulator.Route.Result;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Ships.Models.Engines;
+namespace ShipFlightSimulator.Ships.Models.Engines;
 
 public class OmegaJumpEngine : IJumpEngine
 {

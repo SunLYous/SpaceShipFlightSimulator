@@ -1,6 +1,6 @@
-﻿using Itmo.ObjectOrientedProgramming.Lab1.Environments.Models;
+﻿using ShipFlightSimulator.Environments.Models;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Ships.Models.Deflectors;
+namespace ShipFlightSimulator.Ships.Models.Deflectors;
 
 public interface IDeflector
 {

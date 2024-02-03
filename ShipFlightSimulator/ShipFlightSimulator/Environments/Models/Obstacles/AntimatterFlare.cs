@@ -1,7 +1,8 @@
-﻿using Itmo.ObjectOrientedProgramming.Lab1.Ships.Entities;
-using Itmo.ObjectOrientedProgramming.Lab1.Ships.Models.Deflectors;
+﻿using Itmo.ObjectOrientedProgramming.Lab1.Environments.Models.Obstacles;
+using ShipFlightSimulator.Ships.Entities;
+using ShipFlightSimulator.Ships.Models.Deflectors;
 
-namespace Itmo.ObjectOrientedProgramming.Lab1.Environments.Models.Obstacles;
+namespace ShipFlightSimulator.Environments.Models.Obstacles;
 
 public class AntimatterFlare : INebulaeIncreasedDensitySpaceObstacle
 {

@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-
-namespace Itmo.ObjectOrientedProgramming.Lab1.Route.Models;
+﻿namespace ShipFlightSimulator.Route.Models;
 
 public class FuelMarket : IMarket
 {

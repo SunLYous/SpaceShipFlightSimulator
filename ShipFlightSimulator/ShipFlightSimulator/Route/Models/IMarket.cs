@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace Itmo.ObjectOrientedProgramming.Lab1.Route.Models;
+﻿namespace ShipFlightSimulator.Route.Models;
 
 public interface IMarket
 {

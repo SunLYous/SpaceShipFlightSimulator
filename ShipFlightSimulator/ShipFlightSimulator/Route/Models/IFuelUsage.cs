@@ -1,4 +1,4 @@
-﻿namespace Itmo.ObjectOrientedProgramming.Lab1.Route.Models;
+﻿namespace ShipFlightSimulator.Route.Models;
 
 public interface IFuelUsage
 {
